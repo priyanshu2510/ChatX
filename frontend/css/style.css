@@ -129,7 +129,7 @@ a {
 /* Join Page */
 .join-container {
 	max-width: 500px;
-	margin: 80px auto;
+	margin: 80px auto -20px;
 	color: #fff;
 }
 
@@ -165,7 +165,16 @@ a {
 	height: 40px;
 	width: 100%;
 }
-
+.footer-copyright {
+	/* background-color: #f5efef; */
+	padding-top: -300px;
+	padding-bottom: -30px;
+	text-align: center;
+	color: black;
+  }
+  p{
+	margin: 242px 0px -50px;
+  }
 .join-main select {
 	font-size: 16px;
 	padding: 5px;
